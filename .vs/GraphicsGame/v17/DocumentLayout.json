@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MANN\\source\\repos\\GraphicsGame\\GraphicsGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5DEDC9-ED23-420F-B0B0-AB0BF333D5F2}|GraphicsGame\\GraphicsGame.csproj|c:\\users\\mann\\source\\repos\\graphicsgame\\graphicsgame\\graphicsgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB5DEDC9-ED23-420F-B0B0-AB0BF333D5F2}|GraphicsGame\\GraphicsGame.csproj|solutionrelative:graphicsgame\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5DEDC9-ED23-420F-B0B0-AB0BF333D5F2}|GraphicsGame\\GraphicsGame.csproj|c:\\users\\mann\\source\\repos\\graphicsgame\\graphicsgame\\graphicsgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DB5DEDC9-ED23-420F-B0B0-AB0BF333D5F2}|GraphicsGame\\GraphicsGame.csproj|solutionrelative:graphicsgame\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MANN\\source\\repos\\GraphicsGame\\GraphicsGame\\GraphicsGame\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GraphicsGame\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MANN\\source\\repos\\GraphicsGame\\GraphicsGame\\GraphicsGame\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GraphicsGame\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAgwH8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:59:05.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MANN\\source\\repos\\GraphicsGame\\GraphicsGame\\GraphicsGame\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GraphicsGame\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MANN\\source\\repos\\GraphicsGame\\GraphicsGame\\GraphicsGame\\MainWindow.xaml",
+              "RelativeToolTip": "GraphicsGame\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-05T12:59:09.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

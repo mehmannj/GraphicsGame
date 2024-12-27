@@ -1,0 +1,28 @@
+﻿<Window x:Class="GraphicsGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GraphicsGame"
+        mc:Ignorable="d"
+        Title="Shapes Game" Height="650" Width="1000">
+    <Grid>
+        <Canvas Name="ShapeCanvas" Width="1000" Height="575" 
+                Background="Black" VerticalAlignment="Top"
+                MouseDown="ShapeCanvas_MouseDown"></Canvas>
+        <WrapPanel VerticalAlignment="Bottom" HorizontalAlignment="Center">
+            <Button Width="100" Height="35" Margin="10" Click="CircleButton_Click">Circle</Button>
+            <Button Width="100" Height="35" Margin="10" Click=" RectangleButton_Click">Rectangle</Button>
+            <Button Width="100" Height="35" Margin="10" Click="StepButton_Click">Step</Button>
+            <Button Width="100" Height="35" Margin="10" Click="PlayButton_Click">Play</Button>
+            <Button Width="100" Height="35" Margin="10" Click="PauseButton_Click">Pause</Button>
+            <Button Width="100" Height="35" Margin="10" Click="FireButton_Click">Fire</Button>
+            <ComboBox Name="ColorPicker" Width="100" Height="35" Margin="10">
+                <ComboBoxItem Content="Red" />
+                <ComboBoxItem Content="Green" />
+                <ComboBoxItem Content="Blue" />
+                <ComboBoxItem Content="Yellow" />
+            </ComboBox>
+        </WrapPanel>
+    </Grid>
+</Window>
